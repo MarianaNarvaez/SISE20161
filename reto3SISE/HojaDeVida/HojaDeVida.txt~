@@ -1,0 +1,8 @@
+\documentclass{article}
+\usepackage{graphicx}
+\graphicspath{ {./} }
+
+\begin{document}
+
+\includegraphics{Foto}
+\end{document}
